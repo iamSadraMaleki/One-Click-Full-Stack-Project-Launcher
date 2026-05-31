@@ -1,0 +1,11 @@
+{
+    "backend_bat": "",
+    "frontend_bat": "",
+    "stop_bat": "T:/Project/RUNNER_V1/stop_all.bat",
+    "backend_port": "",
+    "frontend_port": "",
+    "backend_path": "",
+    "frontend_path": "",
+    "backend_registered": false,
+    "frontend_registered": false
+}
